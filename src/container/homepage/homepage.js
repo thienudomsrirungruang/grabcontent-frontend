@@ -4,9 +4,7 @@ import CartoonContainer from '../cartoon-container/cartoon-container';
 
 function Homepage(){
   return (
-    <Container>
-      <CartoonContainer/>
-    </Container>
+    <CartoonContainer/>
   )
 }
 
